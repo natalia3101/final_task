@@ -1,0 +1,15 @@
+D:\Программирование\final_test\bin\Debug\net7.0\final_test.exe
+D:\Программирование\final_test\bin\Debug\net7.0\final_test.deps.json
+D:\Программирование\final_test\bin\Debug\net7.0\final_test.runtimeconfig.json
+D:\Программирование\final_test\bin\Debug\net7.0\final_test.dll
+D:\Программирование\final_test\bin\Debug\net7.0\final_test.pdb
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.csproj.AssemblyReference.cache
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.AssemblyInfoInputs.cache
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.AssemblyInfo.cs
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.csproj.CoreCompileInputs.cache
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.dll
+D:\Программирование\final_test\obj\Debug\net7.0\refint\final_test.dll
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.pdb
+D:\Программирование\final_test\obj\Debug\net7.0\final_test.genruntimeconfig.cache
+D:\Программирование\final_test\obj\Debug\net7.0\ref\final_test.dll
